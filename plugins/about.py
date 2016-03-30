@@ -22,9 +22,9 @@ def run(msg):
 
     help = '\nUse ' + config['command_start'] + 'help for a list of commands.'
     license = '\n*#BOT_FIRSTNAME* uses *Polaris* which is licensed under the *GPLv2*.'
-    source = '\n[Source Code on Github](https://github.com/luksireiku/polaris)'
-    channel = '\nChannel: @PolarisChannel'
-    group = '\nJoin [Society of Polaris](https://telegram.me/joinchat/B09roADwf_8-9zMfxniOpA)!'
+    source = '\n[lol](google.com)'
+    channel = '\nChannel: @Ww_Shahabsaf_wW'
+    group = '\nJoin [Channel](https://telegram.me/joinchat/Bybl3DufJpBeINr6R-bTug)!'
     stats = '\nUsers: {0}\nGroups: {1}'.format(len(users), len(groups))
 
     if get_command(msg['text']) == 'about':
